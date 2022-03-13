@@ -1,3 +1,10 @@
+# Edited version
+  slove problem in for in/of
+  by amir73khakbaz@gmail.com
+  edit date:2022/03/13
+  ////////////////////////
+  
+  
 # react-codemirror
 
 [![NPM Downloads](https://img.shields.io/npm/dm/@uiw/react-codemirror.svg?style=flat)](https://www.npmjs.com/package/@uiw/react-codemirror)
